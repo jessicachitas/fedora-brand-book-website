@@ -19,17 +19,20 @@ The Fedora community includes thousands of individuals with different views and 
 
 pass:[<div align="center"><img src="images/banner_TheFourFoundations_copy_1.png"></img></div>]
 
+[%autowidth]
+[frame=none]
+[grid=none]
 |=======================
-|image:images/foundations_Freedom.png[alt="Freedom",width=128,height=128] | *We are dedicated to free software and content.*
+|image:images/foundations_Freedom.png[alt="Freedom",width=350,height=350] | *We are dedicated to free software and content.*
 
 Advancing software and content freedom is a central community goal, which we accomplish through the software and content we promote. We choose free alternatives to proprietary code and content and limit the effects of proprietary or patent encumbered code on the Project.
-|image:images/foundations_Friends.png[alt="Friends",width=128,height=128]    | *We are a strong, caring community.*
+|image:images/foundations_Friends.png[alt="Friends",width=350,height=350]    | *We are a strong, caring community.*
 
 The Fedora community is made up of people from all walks of life, working together to advance free software. There is a place in Fedora for anyone who wants to help, regardless of technical skill level, as long as they believe in our core values.
-|image:images/foundations_Features.png[alt="Features",width=128,height=128]    | *We care about excellent software.*
+|image:images/foundations_Features.png[alt="Features",width=350,height=350]    | *We care about excellent software.*
 
 The Fedora community creates many of the technical features that have made Linux powerful, flexible, and usable for a wide spectrum of millions of users, administrators, and developers worldwide. We recognize the status quo is worth changing to empower additional end-users, or to create a more flexible and powerful environment for building new solutions on the free software we provide.
-|image:images/foundations_First.png[alt="First",width=128,height=128]   | *We are committed to innovation.*
+|image:images/foundations_First.png[alt="First",width=350,height=350]   | *We are committed to innovation.*
 
 We are not content to let others do all the heavy lifting on our behalf; we provide the latest in stable and robust, useful, and powerful free software in our Fedora distribution.
 |=======================
