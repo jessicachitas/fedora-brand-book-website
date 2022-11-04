@@ -46,7 +46,26 @@ While it may seem as if your change to the logo is minor, the impact of such cha
 Fedora Logo Basics
 ~~~~~~~~~~~~~~~~~~
 
+|=======================
+|image:images/fedora_default-logo.png[alt="Fedora Default Logo"] Fedora Default Logo | image:images/fedora_one-color-horizontal.png[alt="Fedora One Color Logo - Black"] Fedora One Color Logo - Black
+|image:images/fedora_fedora-vertical.png[alt="Fedora Vertical Logo"] Fedora Vertical Logo | image:images/fedora_vertical-gradient.png[alt="Fedora Vertical Gradient Logo"] Fedora Vertical Gradient Logo
+|image:images/fedora_one-color-vertical.png[alt="Fedora One Color Vertical Logo - Black"] Fedora One Color Vertical Logo - Black | image:images/white-vertical.png[alt="Fedora One Color Vertical Logo - White"] Fedora One Color Vertical Logo - White
+|image:images/fedora_white-and-blue-f-white-text.png[alt="Fedora Vertical Logo - White and Blue Logo, White Text"] Fedora Vertical Logo - White and Blue Logo, White Text | image:images/fedora_blue-f-white-text.png[alt="Fedora Vertical Logo - Blue Logo, White Text"] Fedora Vertical Logo - Blue Logo, White Text
+|=======================
 
+Logos from different Fedora Sub-projects
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+These logos come from different projects within the Fedora community. If you would like to learn more about these logos, please visit:
+https://docs.fedoraproject.org/en-US/project/brand/
+ 
+
+|=======================
+|image:images/fedora_workstation.png[alt="Fedora Workstation Logo"] Fedora Workstation Logo | image:images/fedora_silverblue.png[alt="Fedora Silverblue Logo"] Fedora Silverblue Logo
+|image:images/fedora_server.png[alt="Fedora Server Logo"] Fedora Server Logo | image:images/fedora_iot.png[alt="Fedora IoT Logo"] Fedora IoT Logo
+|image:images/fedora_coreos.png[alt="Fedora CoreOS Logo"] Fedora CoreOS Logo | image:images/fedora_magazine.png[alt="Fedora Magazine Logo"] Fedora Magazine Logo
+|image:images/fedora_remix.png[alt="Fedora Remix Logo"] Fedora Remix Logo | 
+|=======================
 
 
 
