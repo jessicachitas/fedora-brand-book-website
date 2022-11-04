@@ -58,7 +58,6 @@ Logos from different Fedora Sub-projects
 
 These logos come from different projects within the Fedora community. If you would like to learn more about these logos, please visit:
 https://docs.fedoraproject.org/en-US/project/brand/
- 
 
 |=======================
 |image:images/fedora_workstation.png[alt="Fedora Workstation Logo"] Fedora Workstation Logo | image:images/fedora_silverblue.png[alt="Fedora Silverblue Logo"] Fedora Silverblue Logo
