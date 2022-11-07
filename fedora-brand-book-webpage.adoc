@@ -20,8 +20,6 @@ The Fedora community includes thousands of individuals with different views and 
 pass:[<div align="center"><img src="images/banner_TheFourFoundations_copy_1.png"></img></div>]
 
 [%autowidth]
-[frame=none]
-[grid=none]
 |=======================
 |image:images/foundations_Freedom.png[alt="Freedom",width=350,height=350] | *We are dedicated to free software and content.*
 
@@ -46,11 +44,12 @@ While it may seem as if your change to the logo is minor, the impact of such cha
 Fedora Logo Basics
 ~~~~~~~~~~~~~~~~~~
 
+[%autowidth]
 |=======================
-|image:images/fedora_default-logo.png[alt="Fedora Default Logo"] Fedora Default Logo | image:images/fedora_one-color-horizontal.png[alt="Fedora One Color Logo - Black"] Fedora One Color Logo - Black
-|image:images/fedora_fedora-vertical.png[alt="Fedora Vertical Logo"] Fedora Vertical Logo | image:images/fedora_vertical-gradient.png[alt="Fedora Vertical Gradient Logo"] Fedora Vertical Gradient Logo
-|image:images/fedora_one-color-vertical.png[alt="Fedora One Color Vertical Logo - Black"] Fedora One Color Vertical Logo - Black | image:images/white-vertical.png[alt="Fedora One Color Vertical Logo - White"] Fedora One Color Vertical Logo - White
-|image:images/fedora_white-and-blue-f-white-text.png[alt="Fedora Vertical Logo - White and Blue Logo, White Text"] Fedora Vertical Logo - White and Blue Logo, White Text | image:images/fedora_blue-f-white-text.png[alt="Fedora Vertical Logo - Blue Logo, White Text"] Fedora Vertical Logo - Blue Logo, White Text
+|image:images/fedora_default-logo.png[alt="Fedora Default Logo" ,width=500] Fedora Default Logo | image:images/fedora_one-color-horizontal.png[alt="Fedora One Color Logo - Black" ,width=500] Fedora One Color Logo - Black
+|image:images/fedora_fedora-vertical.png[alt="Fedora Vertical Logo" ,width=500] Fedora Vertical Logo | image:images/fedora_vertical-gradient.png[alt="Fedora Vertical Gradient Logo" ,width=500] Fedora Vertical Gradient Logo
+|image:images/fedora_one-color-vertical.png[alt="Fedora One Color Vertical Logo - Black" ,width=500] Fedora One Color Vertical Logo - Black | image:images/fedora_white-vertical.png[alt="Fedora One Color Vertical Logo - White" ,width=500] Fedora One Color Vertical Logo - White
+|image:images/fedora_white-and-blue-f-white-text.png[alt="Fedora Vertical Logo - White and Blue Logo, White Text" ,width=500] Fedora Vertical Logo - White and Blue Logo, White Text | image:images/fedora_blue-f-white-text.png[alt="Fedora Vertical Logo - Blue Logo, White Text" ,width=500] Fedora Vertical Logo - Blue Logo, White Text
 |=======================
 
 Logos from different Fedora Sub-projects
@@ -65,6 +64,29 @@ https://docs.fedoraproject.org/en-US/project/brand/
 |image:images/fedora_coreos.png[alt="Fedora CoreOS Logo"] Fedora CoreOS Logo | image:images/fedora_magazine.png[alt="Fedora Magazine Logo"] Fedora Magazine Logo
 |image:images/fedora_remix.png[alt="Fedora Remix Logo"] Fedora Remix Logo | 
 |=======================
+
+Logo Templates
+~~~~~~~~~~~~~~
+
+These templates help bring unity across the expanse of the project between different applications on our infrastructure and between different groups within the project.
+
+|=======================
+|image:images/fedora_app-sub-logo.png[alt="Fedora Applications Logo Template"] Fedora Applications Logo Template
+| image:images/fedora_team-sub-logo.png[alt="Fedora Teamname Logo Template"] Fedora Teamname Logo Template
+|image:images/fedora_team-sub-logo-vertical.png[alt="Fedora Teamname Logo Template - Vertical"] Fedora Teamname Logo Template - Vertical
+|=======================
+
+The Do's and Don'ts of the Fedora Logo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Don't search for the logos on a search engine and use whatever you find there. There are many unofficial variations on the Fedora logos that are not authorized, are unofficial, and do not respect these guidelines. Please do not use them or spread them further!
+
+Here are some guidelines you should avoid if you would like to use some of our logos:
+
+
+
+
+
 
 
 
