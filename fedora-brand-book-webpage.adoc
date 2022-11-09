@@ -83,6 +83,34 @@ Don't search for the logos on a search engine and use whatever you find there. T
 
 Here are some guidelines you should avoid if you would like to use some of our logos:
 
+|=======================
+|image:images/do-not-adjust.png[alt="Do not adjust any of the logos"] Do not adjust any of the logos | image:images/fedora_do-not-colour.png[alt="Do not switch the colors"] Do not switch the colors
+|image:images/do-not-background.png[alt="Do not use the logo on a similarly-colored backgrounds"] Do not use the logo on a similarly-colored backgrounds | image:images/do-not-rearrange.png[alt="Do not rearrange elements of the logo"] Do not rearrange elements of the logo
+|image:images/do-not-stray.png[alt="Do not stray from the color palette"] Do not stray from the color palette | image:images/do-not-distort.png[alt="Do not stretch or distort the logo"] Do not stretch or distort the logo
+|image:images/do-not-create.png[alt="Do not make your own variant of the logo"] Do not make your own variant of the logo | image:images/do-not-hats.png[alt="We don't do hats either"] We don't do hats either
+|=======================
+
+Colors
+~~~~~~
+
+We keep a single color palette to keep our artwork consistent, whether it is different Fedora materials, Fedora materials on screen, on the web, or on printed materials. Past mistakes have included Fedora DVDs coming out purple (true story!) so please pay attention to these colors, and please always use CMYK colors for professionally-printed collateral and objects such as printed banners, T-shirts, hats, and stickers. Otherwise, your design may well come out purple instead of blue!
+
+The Main Palette
+~~~~~~~~~~~~~~~~
+
+image:images/main-colour-palette.png[alt="The Main Palette"]
+
+Different Variants
+~~~~~~~~~~~~~~~~~~
+
+image:images/different-variants.png[alt="Different Variants"]
+
+Color-blind safe palette
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:images/colour-blind-safe-palette.png[alt="Color-blind safe palette"]
+
+
 
 
 
