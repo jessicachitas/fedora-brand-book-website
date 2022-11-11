@@ -1,6 +1,6 @@
 pass:[<title>Fedora Brand Guidelines</title>]
 
-pass:[<div align="center"><img src="images/banner_FedoraBrandGuidelines_copy_1.png"></img></div>]
+pass:[<div align="center"><img src="images/banner/banner_FedoraBrandGuidelines_copy_1.png"></img></div>]
 
 Table of Contents
 ~~~~~~~~~~~~~~~~~
@@ -11,13 +11,13 @@ Table of Contents
 * Typography
 * Characters
 
-pass:[<div align="center"><img src="images/banner_WhatisFedora_copy_1.png"></img></div>]
+pass:[<div align="center"><img src="images/banner/banner_WhatisFedora_copy_1.png"></img></div>]
 
 The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you to do useful stuff with it.
 
 The Fedora community includes thousands of individuals with different views and approaches, but together we share some common values. We call these the “Four Foundations”: Freedom, Friends, Features, and First.
 
-pass:[<div align="center"><img src="images/banner_TheFourFoundations_copy_1.png"></img></div>]
+pass:[<div align="center"><img src="images/banner/banner_TheFourFoundations_copy_1.png"></img></div>]
 
 [%autowidth]
 |=======================
@@ -35,7 +35,7 @@ The Fedora community creates many of the technical features that have made Linux
 We are not content to let others do all the heavy lifting on our behalf; we provide the latest in stable and robust, useful, and powerful free software in our Fedora distribution.
 |=======================
 
-pass:[<div align="center"><img src="images/banner_TheFedoraLogo_copy_1.png"></img></div>]
+pass:[<div align="center"><img src="images/banner/banner_TheFedoraLogo_copy_1.png"></img></div>]
 
 These logos are used for many purposes across many different designs, including software applications, web sites, T-shirts, event booth tablecloths and banners, and other printed material. 
 
@@ -46,10 +46,10 @@ Fedora Logo Basics
 
 [%autowidth]
 |=======================
-|image:images/fedora_default-logo.png[alt="Fedora Default Logo" ,width=500] Fedora Default Logo | image:images/fedora_one-color-horizontal.png[alt="Fedora One Color Logo - Black" ,width=500] Fedora One Color Logo - Black
-|image:images/fedora_fedora-vertical.png[alt="Fedora Vertical Logo" ,width=500] Fedora Vertical Logo | image:images/fedora_vertical-gradient.png[alt="Fedora Vertical Gradient Logo" ,width=500] Fedora Vertical Gradient Logo
-|image:images/fedora_one-color-vertical.png[alt="Fedora One Color Vertical Logo - Black" ,width=500] Fedora One Color Vertical Logo - Black | image:images/fedora_white-vertical.png[alt="Fedora One Color Vertical Logo - White" ,width=500] Fedora One Color Vertical Logo - White
-|image:images/fedora_white-and-blue-f-white-text.png[alt="Fedora Vertical Logo - White and Blue Logo, White Text" ,width=500] Fedora Vertical Logo - White and Blue Logo, White Text | image:images/fedora_blue-f-white-text.png[alt="Fedora Vertical Logo - Blue Logo, White Text" ,width=500] Fedora Vertical Logo - Blue Logo, White Text
+|image:images/logo/fedora_default-logo.png[alt="Fedora Default Logo" ,width=500] Fedora Default Logo | image:images/logo/fedora_one-color-horizontal.png[alt="Fedora One Color Logo - Black" ,width=500] Fedora One Color Logo - Black
+|image:images/logo/fedora_fedora-vertical.png[alt="Fedora Vertical Logo" ,width=500] Fedora Vertical Logo | image:images/logo/fedora_vertical-gradient.png[alt="Fedora Vertical Gradient Logo" ,width=500] Fedora Vertical Gradient Logo
+|image:images/logo/fedora_one-color-vertical.png[alt="Fedora One Color Vertical Logo - Black" ,width=500] Fedora One Color Vertical Logo - Black | image:images/logo/fedora_white-vertical.png[alt="Fedora One Color Vertical Logo - White" ,width=500] Fedora One Color Vertical Logo - White
+|image:images/logo/fedora_white-and-blue-f-white-text.png[alt="Fedora Vertical Logo - White and Blue Logo, White Text" ,width=500] Fedora Vertical Logo - White and Blue Logo, White Text | image:images/logo/fedora_blue-f-white-text.png[alt="Fedora Vertical Logo - Blue Logo, White Text" ,width=500] Fedora Vertical Logo - Blue Logo, White Text
 |=======================
 
 Logos from different Fedora Sub-projects
@@ -59,10 +59,10 @@ These logos come from different projects within the Fedora community. If you wou
 https://docs.fedoraproject.org/en-US/project/brand/
 
 |=======================
-|image:images/fedora_workstation.png[alt="Fedora Workstation Logo"] Fedora Workstation Logo | image:images/fedora_silverblue.png[alt="Fedora Silverblue Logo"] Fedora Silverblue Logo
-|image:images/fedora_server.png[alt="Fedora Server Logo"] Fedora Server Logo | image:images/fedora_iot.png[alt="Fedora IoT Logo"] Fedora IoT Logo
-|image:images/fedora_coreos.png[alt="Fedora CoreOS Logo"] Fedora CoreOS Logo | image:images/fedora_magazine.png[alt="Fedora Magazine Logo"] Fedora Magazine Logo
-|image:images/fedora_remix.png[alt="Fedora Remix Logo"] Fedora Remix Logo | 
+|image:images/logo/fedora_workstation.png[alt="Fedora Workstation Logo"] Fedora Workstation Logo | image:images/logo/fedora_silverblue.png[alt="Fedora Silverblue Logo"] Fedora Silverblue Logo
+|image:images/logo/fedora_server.png[alt="Fedora Server Logo"] Fedora Server Logo | image:images/logo/fedora_iot.png[alt="Fedora IoT Logo"] Fedora IoT Logo
+|image:images/logo/fedora_coreos.png[alt="Fedora CoreOS Logo"] Fedora CoreOS Logo | image:images/logo/fedora_magazine.png[alt="Fedora Magazine Logo"] Fedora Magazine Logo
+|image:images/logo/fedora_remix.png[alt="Fedora Remix Logo"] Fedora Remix Logo | 
 |=======================
 
 Logo Templates
@@ -70,14 +70,14 @@ Logo Templates
 
 These templates help bring unity across the expanse of the project between different applications on our infrastructure and between different groups within the project.
 
+[%autowidth]
 |=======================
-|image:images/fedora_app-sub-logo.png[alt="Fedora Applications Logo Template"] Fedora Applications Logo Template
-| image:images/fedora_team-sub-logo.png[alt="Fedora Teamname Logo Template"] Fedora Teamname Logo Template
-|image:images/fedora_team-sub-logo-vertical.png[alt="Fedora Teamname Logo Template - Vertical"] Fedora Teamname Logo Template - Vertical
+|image:images/logo/fedora_app-sub-logo.png[alt="Fedora Applications Logo Template"] Fedora Applications Logo Template
+| image:images/logo/fedora_team-sub-logo.png[alt="Fedora Teamname Logo Template"] Fedora Teamname Logo Template
+|image:images/logo/fedora_team-sub-logo-vertical.png[alt="Fedora Teamname Logo Template - Vertical"] Fedora Teamname Logo Template - Vertical
 |=======================
 
-The Do's and Don'ts of the Fedora Logo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+pass:[<div align="center"><img src="images/banner/banner_TheDosandDontsoftheFedoraLogo_copy_1.png"></img></div>]
 
 Don't search for the logos on a search engine and use whatever you find there. There are many unofficial variations on the Fedora logos that are not authorized, are unofficial, and do not respect these guidelines. Please do not use them or spread them further!
 
@@ -90,8 +90,7 @@ Here are some guidelines you should avoid if you would like to use some of our l
 |image:images/do-not-create.png[alt="Do not make your own variant of the logo"] Do not make your own variant of the logo | image:images/do-not-hats.png[alt="We don't do hats either"] We don't do hats either
 |=======================
 
-Colors
-~~~~~~
+pass:[<div align="center"><img src="images/banner/banner_banner_Colors_copy_1.png"></img></div>]
 
 We keep a single color palette to keep our artwork consistent, whether it is different Fedora materials, Fedora materials on screen, on the web, or on printed materials. Past mistakes have included Fedora DVDs coming out purple (true story!) so please pay attention to these colors, and please always use CMYK colors for professionally-printed collateral and objects such as printed banners, T-shirts, hats, and stickers. Otherwise, your design may well come out purple instead of blue!
 
@@ -110,91 +109,76 @@ Color-blind safe palette
 
 image:images/colour-blind-safe-palette.png[alt="Color-blind safe palette"]
 
+pass:[<div align="center"><img src="images/banner/banner_Typography_copy_1.png"></img></div>]
 
+We recommend the following complementary fonts to use along with the logos. Both recommended fonts are openly licensed and freely distributable.
 
+We recommend using Open Sans as a body text / copy font. It comes in a wide range of weights.
 
+We recommend using Montserrat as a titling / headline font. Montserrat is also used in the Fedora Editions logos.
 
+image:images/fonts.png[alt="Selection of fonts that can be used"]
 
+pass:[<div align="center"><img src="images/banner/banner_Characters_copy_1.png"></img></div>]
 
+Most of these characters were created as part of the Fedora Characters Revamp Project. These mascots can be used in different projects.
 
+You will be introduced to Badger, Beefy, Panda and Colúr and their history within the Fedora Community along with what part they belong to as well.
 
+Panda
+~~~~~
 
+Panda is a happy go-lucky panda with glowing ears and a glowing nuclear symbol on her stomach and was originally created as a helper. You were able to find her on on the 404 and 500 pages and also was in the Fedora Docs pointing out tips and tricks. Panda is female and is a general mascot for the Fedora community. In 2021, intern Lauryn Dake redesigned the Panda during the Fedora Character Revamp Project. 
 
-
-[[cheat-sheet]]
-AsciiDoc Mini Cheat Sheet
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-To help you get started, here're some snippets from the
-http://powerman.name/doc/asciidoc[AsciiDoc Cheet Sheet^]. Feel free to poke
-around :)
-
-Text Styles
-^^^^^^^^^^^
-* normal, _italic_, *bold*, +mono+.
-* ``double quoted'', `single quoted'.
-* normal, ^super^, ~sub~.
-* `passthru *bold*`
-
-Tables
-^^^^^^
-.An example table
-[options="header,footer"]
 |=======================
-|Col 1|Col 2      |Col 3
-|1    |Item 1     |a
-|2    |Item 2     |b
-|3    |Item 3     |c
-|6    |Three items|d
+|image:images/characters/panda/panda01.png[alt="panda01"] | image:images/characters/panda/panda02.png[alt="panda02"] |image:images/characters/panda/panda03.png[alt="panda03"] | image:images/characters/panda/panda04.png[alt="panda04"] |image:images/characters/panda/panda05.png[alt="panda05"] 
+|image:images/characters/panda/panda06.png[alt="panda06"] |image:images/characters/panda/panda07.png[alt="panda07"] | image:images/characters/panda/panda08.png[alt="panda08"] |image:images/characters/panda/panda09.png[alt="panda09"] | image:images/characters/panda/panda10.png[alt="panda10"] 
+|image:images/characters/panda/panda11.png[alt="panda11"] | image:images/characters/panda/panda12.png[alt="panda12"] | image:images/characters/panda/panda13.png[alt="panda13"]
 |=======================
 
-Lists
-^^^^^
+Badger
+~~~~~~
 
-* Q: How did the programmer die in the shower?
-  A: He read the shampoo instructions:
+Badger is the Fedora Badges mascot and has been featured on a lot of different badges throughout the years. Badger was fist inspired by a popular early 2000's internet meme involving badgers and snakes. Badger is non-binary. In 2021, intern Lauryn Dake brought them to life by creating a new style for  the Badger to fit in to the Fedora style. 
 
-  . Lather, rinse.
-  . Repeat.
+|=======================
+|image:images/characters/badger/badger01.png[alt="badger01"] | image:images/characters/badger/badger02.png[alt="badger02"] |image:images/characters/badger/badger03.png[alt="badger03"] | image:images/characters/badger/badger04.png[alt="badger04"] |image:images/characters/badger/badger05.png[alt="badger05"] 
+|image:images/characters/badger/badger06.png[alt="badger06"] |image:images/characters/badger/badger07.png[alt="badger07"] | image:images/characters/badger/badger08.png[alt="badger08"] |image:images/characters/badger/badger09.png[alt="badger09"] 
+|=======================
 
-* There are only 10 kinds of people in this world:
-  - Those who understand binary.
-  - Those who don't.
+Beefy
+~~~~~
 
-Misc
-^^^^
+Beefy is a general mascot for the Fedora Community. He was the release name for Fedora 17 and has been a popular character even before Fedora Linux! He became a meme between Linux users. Beefy is male and on his belly, the mustard indicates progress. He was also a bootup screen for Fedora in past years and as it was loading, the mustard on his belly grew. In 2021, intern Lauryn Dake revamped the style of Beefy and created him in many poses.  If you would like to know more about the origins of the Beefy Miracle, please visit: 
+https://beefymiracle.org/ 
 
-* Code listings:
-+
-[source,python]
------------------
-#!/usr/bin/env python
-import antigravity
-try:
-  antigravity.fly()
-except FlytimeError as e:
-  # um...not sure what to do now.
-  pass
------------------
 
-* Quotes:
-+
-[quote,"Charles Dickens","A Tale of Two Cities"]
-It was the best of times, it was the worst of times, it was the age of wisdom,
-it was the age of foolishness...
+|=======================
+|image:images/characters/beefy/beefy01.png[alt="beefy01"] | image:images/characters/beefy/beefy02.png[alt="beefy02"] |image:images/characters/beefy/beefy03.png[alt="beefy03"] | image:images/characters/beefy/beefy04.png[alt="beefy04"] |image:images/characters/beefy/beefy05.png[alt="beefy05"] 
+|image:images/characters/beefy/beefy06.png[alt="beefy06"] |image:images/characters/beefy/beefy07.png[alt="beefy07"] | image:images/characters/beefy/beefy08.png[alt="beefy08"] |image:images/characters/beefy/beefy09.png[alt="beefy09"] | image:images/characters/beefy/beefy10.png[alt="beefy10"] 
+|image:images/characters/beefy/beefy11.png[alt="beefy11"] | image:images/characters/beefy/beefy12.png[alt="beefy12"] | image:images/characters/beefy/beefy13.png[alt="beefy13"]
+|=======================
 
-* Links:
-** http://asciidoclive.com/[AsciiDocLIVE^] is awesome!
 
-* Images:
-+
-image:https://i.imgur.com/AEkqoRn.jpg[alt="not bad.",width=128,height=128]
+Colúr
+~~~~~
 
-* Videos:
-+
-video::th_H1gixMEE[youtube]
+Colúr is our newest character that was created as a mascot for our Flock events. In 2022, Jess Chitas created him to go along with the Flock events and to also bring a new Fedora character to the table! He is based on the Pink-Necked Green Pigeon and his name came from the Irish meaning Pigeon but also sounds like the word 'Color'.
 
-* Pass-through: pass:[<div align="center"><b>pass through content</b></div>]
+|=======================
+|image:images/characters/colur/colur01.png[alt="colur01"] | image:images/characters/colur/colur02.png[alt="colur02"] |image:images/characters/colur/colur03.png[alt="colur03"] | image:images/characters/colur/colur04.png[alt="colur04"] |image:images/characters/colur/colur05.png[alt="colur05"] 
+|image:images/characters/colur/colur-face01.png[alt="colur-face01"] | image:images/characters/colur/colur-face02.png[alt="colur-face02"] |image:images/characters/colur/colur-face03.png[alt="colur-face03"] | image:images/characters/colur/colur-face04.png[alt="colur-face04"]
+|=======================
 
-pass:[<div align="center"><img src="https://www.fosslinux.com/wp-content/uploads/2020/09/1.-GNOME-running-on-Fedora.jpg"></img></div>]
+There is a lot to the Fedora brand and there may be things we haven't been able to cover in this guide.
 
+However, if you need help working with the logo to make sure you are following the guidelines or want to do something different with it, please email logo@fedoraproject.org and we would be delighted to help you!
+
+Fedora®, the Fedora word design, the Infinity design logo, Fedora Remix, and the Fedora Remix word design, either separately or in combination, are hereinafter referred to as "Fedora Trademarks" and are trademarks of Red Hat, Inc.
+
+Please review and follow the Fedora trademark guidelines available at:
+https://fedoraproject.org/wiki/Legal:Trademark_guidelines
+
+Created by Jess Chitas
+
+CC-BY-SA 4.0   2022
